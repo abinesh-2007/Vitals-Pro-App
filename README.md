@@ -86,6 +86,16 @@ flutter pub get
 4️⃣ Run the application
 flutter run
 
+## 📦 Download APK
+
+Download the latest version from:
+https://github.com/yourusername/Vitals-Pro-App/releases
+
+### Installation خطوات:
+1. Download APK
+2. Enable "Install unknown apps"
+3. Open APK and install
+
 
 🔗 System Repositories
 
