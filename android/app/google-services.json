@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "613525422873",
+    "firebase_url": "https://vitals-pro-fb921-default-rtdb.firebaseio.com",
+    "project_id": "vitals-pro-fb921",
+    "storage_bucket": "vitals-pro-fb921.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613525422873:android:73bc4773ccd1390031fb88",
+        "android_client_info": {
+          "package_name": "com.example.vitals_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613525422873-digma4h3cm5flfcs5thokicqjt48uvs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vitals_pro",
+            "certificate_hash": "403bacba7e84cbfd53dfcd98604b960406a0e3e6"
+          }
+        },
+        {
+          "client_id": "613525422873-j67asjrq82nbn5s9if995pg8ncuj5mmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAMANGnHYerl1ReRFDJb5yOHY3SSiEy54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613525422873-j67asjrq82nbn5s9if995pg8ncuj5mmi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "613525422873-1im8uo46qhifaag3v824jvsqcjete2uj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vitalsPro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
