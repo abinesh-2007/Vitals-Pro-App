@@ -50,17 +50,16 @@ Firebase
 
 
 
-
 ## 📱 Application Preview
 
 ### 🏠 Home Dashboard
-![Home](./screenshots/home.png)
+<img src="screenshots/home.png" width="250"/>
 
 ### 📡 Live Monitoring
-![Live](./screenshots/live_monitor.png)
+<img src="screenshots/live_monitor.png" width="250"/>
 
 ### 🏥 ICU Live Monitor
-![ICU](./screenshots/icu_monitor.png)
+<img src="screenshots/icu_monitor.png" width="250"/>
 
 
 🏗 Project Structure
